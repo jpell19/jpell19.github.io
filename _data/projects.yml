@@ -1,0 +1,16 @@
+- name: Stable Diffusion Customization
+  image: https://user-images.githubusercontent.com/24516535/258942026-a325cfdf-a391-49bd-aa00-97e641b9ac68.jpg
+  link: https://github.com/jpell19/collatz-colored-manim
+  description: An interface to allow fine-tune customization of stable diffusion generated images
+- name: Collatz Dynamic Colored Bits
+  link: https://github.com/jpell19/collatz-colored-manim
+  image: https://user-images.githubusercontent.com/24516535/258967742-45e15227-645f-45e2-87e9-b9ab4c01aec1.jpg
+  description: A way to keep track of how bits collect under the Collatz transform
+- name: Fallout 4 Terminal (Wordle Precusor)
+  link: https://github.com/jpell19/collatz-colored-manim
+  image: https://github-production-user-asset-6210df.s3.amazonaws.com/24516535/259877989-e4da99c6-2dd1-4dfa-98f4-e29ba1ae19c0.png
+  description: Greedy information entropy apporach to a pre wordle Fallout-4 minigame
+- name: DeepLearning Nanodegree
+  link: https://github.com/jpell19/collatz-colored-manim
+  image: https://user-images.githubusercontent.com/24516535/259246714-ada578a0-8540-4a2f-9018-a9aef5473e9b.jpg
+  description: Different tensorflow applications (e.g. seq2seq, classification, GAN image generation)
