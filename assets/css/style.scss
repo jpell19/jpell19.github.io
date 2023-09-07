@@ -57,6 +57,7 @@ a.navbar-item.is-active {
         bottom: 0px;
         left: 0px;
         position: absolute;
+        /*border-radius: 91%;*/
         opacity: 0.25;
         content: "";
     }
@@ -70,11 +71,11 @@ a.navbar-item.is-active {
 
 #about {
     .image {
-        max-width: 20vmax;
+        max-width: 30vmax;
         margin: auto;
 
         img {
-            border: 0.25rem dotted black;
+            border: 0.5rem black;
         }
     }
 
@@ -103,6 +104,15 @@ a.navbar-item.is-active {
 
     hr {
         background-color: black;
+    }
+
+    .image {
+        max-width: 40vmax;
+        margin: auto;
+
+        img {
+            border: 0.5rem black;
+        }
     }
 }
 
