@@ -3,7 +3,7 @@
 **A few projects I've dabbled with on my spare time** 
 
 
-[<img src="https://user-images.githubusercontent.com/24516535/258672300-4f9a9a0c-4d10-41ab-afb2-515455583f02.gif" width="250" />]
+<img src="https://user-images.githubusercontent.com/24516535/258672300-4f9a9a0c-4d10-41ab-afb2-515455583f02.gif" width="250" />
 
 ---
 
