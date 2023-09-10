@@ -1,6 +1,6 @@
 - name: Stable Diffusion Custom Slider
   image: https://user-images.githubusercontent.com/24516535/258942026-a325cfdf-a391-49bd-aa00-97e641b9ac68.jpg
-  link: https://github.com/jpell19/collatz-colored-manim
+  link: https://github.com/jpell19/concept-canvas
   description: Fine-tune customization of stable diffusion generated images
 - name: Collatz Dynamic Colored Bits
   link: https://github.com/jpell19/collatz-colored-manim
