@@ -4,21 +4,19 @@
         <a class="has-text-white" onclick="window.scroll(0,0)">BACK TO TOP</a>
     </div>
     <!--Footer Main Section-->
-    <div class="has-background-grey-darker">
-        <div class="has-text-left-desktop has-text-centered-mobile">
-            <a href="{{site.url}}{{site.baseurl}}">
-                <div class="columns">
-                    <div class="column is-one-fifth-desktop is-one-fifth-fullhd is-one-quarter-tablet">
-                        <figure class="image is-64x64">
-                            <img class="is-rounded" src="{{site.heroimage}}">
-                        </figure>
-                    </div>
-                    <div class="column is-marginless">
-                        <h2 class="has-text-grey-lighter">Don't try to predict the future, create it now.</h2>
-                    </div>
+    <div class="has-background-grey-darker has-text-left-desktop has-text-centered-mobile">
+        <a href="{{site.url}}{{site.baseurl}}">
+            <div class="columns is-centered is-vcentered">
+                <div class="column is-narrow">
+                    <figure class="image is-64x64 is-inline-block is-marginless">
+                        <img class="is-rounded" src="{{site.heroimage}}">
+                    </figure>
                 </div>
-            </a>
-        </div>
+                <div class="column is-marginless is-narrow">
+                    <h1 class="has-text-grey-lighter is-size-3 is-size-5-mobile">Don't try to predict the future, create it now.</h1>
+                </div>
+            </div>
+        </a>
     </div>
     <div class="has-background-black has-text-centered has-text-white" id="credits">
         <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | <a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">WhatATheme</a> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
