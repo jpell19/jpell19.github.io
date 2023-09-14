@@ -6,11 +6,11 @@
   link: https://github.com/jpell19/collatz-colored-manim
   image: https://user-images.githubusercontent.com/24516535/258967742-45e15227-645f-45e2-87e9-b9ab4c01aec1.jpg
   description: Tracking the collection of bits under the Collatz transform
-- name: F04 Terminal Wordle
-  link: https://github.com/jpell19/collatz-colored-manim
+- name: FO4 Terminal Wordle
+  link: https://github.com/jpell19/FO4-terminal
   image: https://github-production-user-asset-6210df.s3.amazonaws.com/24516535/259877989-e4da99c6-2dd1-4dfa-98f4-e29ba1ae19c0.png
   description: Greedy information entropy apporach to a wordle-like Fallout-4 minigame
 - name: DeepLearning Nanodegree
-  link: https://github.com/jpell19/collatz-colored-manim
+  link: https://github.com/jpell19/dlnd
   image: https://user-images.githubusercontent.com/24516535/259246714-ada578a0-8540-4a2f-9018-a9aef5473e9b.jpg
-  description: Some tensorflow applications (e.g. seq2seq, classification, GAN image generation)
+  description: Udacity DL Projects (seq2seq, classification, GAN image generation)
